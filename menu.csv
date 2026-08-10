@@ -1,0 +1,17 @@
+item_name,category,price,cost
+Masala Chai,Chai,30,15
+Adrak Chai,Chai,35,17
+Elaichi Chai,Chai,40,20
+Kulhad Chai,Chai,50,26
+Green Tea,Chai,40,17
+Filter Coffee,Coffee,60,28
+Cold Coffee,Cold Beverage,90,38
+Iced Tea,Cold Beverage,80,30
+Fresh Lime Soda,Cold Beverage,60,20
+Samosa,Snack,25,6
+Vada Pav,Snack,35,9
+Bun Maska,Snack,40,11
+Poha,Snack,50,14
+Maggi,Snack,60,18
+Paneer Sandwich,Snack,80,26
+Aloo Patty,Snack,30,8
